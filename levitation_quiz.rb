@@ -4,7 +4,7 @@ def levitation_quiz
 	  puts "what is the spell that enacts levitation?"
 	  answer =  answer get.chop
 	  break if answer == "Wingardium Leviosa"
-	  
-end
+	end
+	puts 
 
 
