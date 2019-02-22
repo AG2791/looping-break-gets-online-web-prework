@@ -5,6 +5,6 @@ def levitation_quiz
 	  answer =  answer get.chop
 	  break if answer == "Wingardium Leviosa"
 	end
-	puts 
+	puts "You passed the quiz!" 
 
 
