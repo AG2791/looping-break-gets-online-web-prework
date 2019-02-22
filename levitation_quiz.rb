@@ -1,7 +1,7 @@
 
 def levitation_quiz
 	loop do
-	  puts "what's the l"
+	  puts "what is the spell that enacts levitation?"
 end
 
 
